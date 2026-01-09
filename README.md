@@ -1,5 +1,6 @@
 # ComfyUI Text Renderer
-Text render node for ComfyUI
+Text render node for ComfyUI.  
+It is intended to make hint for a text rendering in image AI, not intended to make a rich text decoration.
 
 ![screenshot](assets/screenshot.png)
 
